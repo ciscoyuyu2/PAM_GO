@@ -2,7 +2,6 @@
  * ------------------------------------------------------------------
  * monitor_crash_lib.go
  *
- * mdt grpc dialin on emsd
  *
  * April, 2018, Paul Yu
  *
